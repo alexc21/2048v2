@@ -1,0 +1,47 @@
+body{
+    background-color:azure;
+}
+
+p{
+    color: darkblue;
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+#score{
+    text-align: center;
+    color:orange;
+}
+
+.clear{
+    clear: both;
+}
+#size-bloc{
+    margin-left: -50px;
+    padding-left: 50%;
+    border-radius: 10px;
+}
+
+#size-title{
+    float: left;
+    margin-top: 0px;
+}
+
+#size{
+    width: 50px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+
+#canvas{
+    background-color: burlywood;
+    border-radius: 10px;
+}
+
+#canvas-block{
+    margin-left: -250px;
+    padding-left: 50%;
+}
